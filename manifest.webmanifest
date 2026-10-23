@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "课铃 · 上课提醒",
+  "short_name": "课铃",
+  "description": "查看课程安排并提醒上课时间和地点。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f6f2",
+  "theme_color": "#256b50",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
